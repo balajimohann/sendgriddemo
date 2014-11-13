@@ -1,4 +1,4 @@
-package com.raremile.tutorial.spring.controller;
+package com.raremile.poc.sendgrid.controller;
 
 import javax.servlet.http.HttpServletRequest;
 
